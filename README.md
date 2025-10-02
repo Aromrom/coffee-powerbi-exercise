@@ -53,6 +53,6 @@ This Power BI dashboard provides a **comprehensive view of sales, profit, and cu
 [🔗Link to PowerBI presentation](https://app.powerbi.com/reportEmbed?reportId=27dc622c-8b9b-415f-b0d3-f3e16e3ab512&autoAuth=true&ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb/)
 ---
 
-📫 **Feedback or Suggestions?**  
+## 📫 **Feedback or Suggestions?**  
 Feel free to reach out or comment directly on the GitHub repo!  
 
