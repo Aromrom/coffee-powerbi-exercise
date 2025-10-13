@@ -51,7 +51,7 @@ This Power BI dashboard provides a **comprehensive view of sales, profit, and cu
 
 ## 📥 Resources
 
-[🔗Link to PowerBI presentation](https://app.powerbi.com/reportEmbed?reportId=27dc622c-8b9b-415f-b0d3-f3e16e3ab512&autoAuth=true&ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb/)
+[🔗Link to PowerBI presentation](https://app.powerbi.com/links/sp99fnVKOb?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare&bookmarkGuid=20c4fa4b-c1d6-44fd-beb6-eec1701037d4/)
 
 [🔗Link to Kaggle dataset](https://www.kaggle.com/datasets/ayeshaimran123/caffeine-collective?resource=download/)
 
